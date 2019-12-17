@@ -1,0 +1,27 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.4) 50%), url(../../images/fond1.jpg);
+	color:white;
+	padding: 77px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-top: 200px;
+}
+
+.banner h1{
+	font-size: 55px;
+	text-shadow: orange 0.1em 0.1em 0.2em;
+}
+
+.banner .txtcont{
+	font-size: 42px;
+	opacity: 0,8;
+	margin-bottom: 40px;
+	font-family: 'Crimson Text', serif;
+	text-align: justify;
+}
+
+.apply{
+	float: center;
+	margin-left: -200px;
+	width: 1327px;
+}

@@ -1,0 +1,17 @@
+#logo{
+  width: 350px;
+  height: 150px;
+}
+
+h1{
+  font-size: 32px;
+}
+
+.cat1{
+  position: absolute;
+  margin-top: -317px
+}
+
+.cat2{
+  margin-top: 300px;
+}

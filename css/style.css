@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Prata|Sulphur+Point&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre&display=swap);
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/form.css");
+@import url("components/nav.css");
+@import url("components/housings.css");
+@import url("components/footer.css");
+
+
+body{
+	font-family: 'Sulphur Point', sans-serif;
+	font-size: 37px;
+	margin: 0px;
+	background-color: #F1EEE5;
+}
+
+h1, h2, h3{
+	font-family: 'Prata', serif;
+	font-weight: bold
+}
+
+h4{
+	font-family: 'Prata', serif;
+	font-size: 17px
+}
+
+a{
+	text-decoration: none;
+}
+
+#wb{
+	font-size: 24px;
+	font-family: 'Frank Ruhl Libre', serif;
+}
